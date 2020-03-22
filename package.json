@@ -1,0 +1,11 @@
+{
+  "name": "test-app",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Halim Hamidov",
+  "license": "ISC"
+}
